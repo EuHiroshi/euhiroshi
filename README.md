@@ -10,7 +10,7 @@
 </div>
 
 <div style="display: inline_block">
- <h3>Ranque no Code Wars!  //  Rank in Code Wars!</h3>
+  <h3><b>Ranque no Code Wars! / Rank in Code Wars!</b></h3>
  <img align="center" alt="EuHiroshi" height="100" width="420" src='https://www.codewars.com/users/EuHiroshi/badges/large'>
 </div>
 
