@@ -10,8 +10,8 @@
 </div>
 
 <div style="display: inline_block">
- <h3>Rank in Code Wars!</h3>
- <img align="center" alt="EuHiroshi" height="100" width="420" src='[https://www.codewars.com/users/ThiagoBussola/badges/large](https://www.codewars.com/users/EuHiroshi/badges/small)'>
+ <h3>Ranque no Code Wars!  //  Rank in Code Wars!</h3>
+ <img align="center" alt="EuHiroshi" height="100" width="420" src='[[https://www.codewars.com/users/ThiagoBussola/badges/large](https://www.codewars.com/users/EuHiroshi/badges/large)](https://www.codewars.com/users/EuHiroshi/badges/small)'>
 </div>
 
 ### Estudando / Studying
