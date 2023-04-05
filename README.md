@@ -11,7 +11,7 @@
 
 <div style="display: inline_block">
  <h3>Ranque no Code Wars!  //  Rank in Code Wars!</h3>
- <img align="center" alt="EuHiroshi" height="100" width="420" src='https://www.codewars.com/users/EuHiroshi/badges/small'>
+ <img align="center" alt="EuHiroshi" height="100" width="420" src='https://www.codewars.com/users/EuHiroshi/badges/large'>
 </div>
 
 ### Estudando / Studying
