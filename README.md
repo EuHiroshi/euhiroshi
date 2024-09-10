@@ -2,11 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Eduardo+Hiroshi;Eu+tenho+23+anos+de+idade;Sou+Brasileiro;Bem-Vindo!+:%29)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Eduardo+Hiroshi;I'm+23+years+old;I'm+from+Brazil;+Welcome!+:%29)](https://git.io/typing-svg)
-
-
-<div align="center">  
-  <img width="59%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EuHiroshi&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2a4&icon_color=8A2BE2a4&text_color=c9d1d9&bg_color=0d1117" alt="Eduardo Hiroshi github stats" /> 
-  <img width="51%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuHiroshi&layout=compact&hide_border=true&title_color=8A2BE2a4&text_color=ff91a4&bg_color=0d1117" />
+  
+<div>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EuHiroshi&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2a4&icon_color=8A2BE2a4&text_color=c9d1d9&bg_color=0d1117" alt="Eduardo Hiroshi github stats" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuHiroshi&layout=compact&hide_border=true&title_color=8A2BE2a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
 <div style="display: inline_block">
